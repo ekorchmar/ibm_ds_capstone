@@ -1,0 +1,10 @@
+[project]
+name = "ibm-ds-capstone"
+version = "0.1.0"
+description = "IBM Data Science Certificate Capstone Project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dash>=4.0.0",
+    "pandas>=3.0.1",
+]
